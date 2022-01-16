@@ -1,0 +1,15 @@
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\bin\Debug\net5.0\LoggerService.dll
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\bin\Debug\net5.0\Contracts.dll
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\bin\Debug\net5.0\Contracts.pdb
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\obj\Debug\net5.0\LoggerService.dll
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\LoggerService\obj\Debug\net5.0\LoggerService.pdb

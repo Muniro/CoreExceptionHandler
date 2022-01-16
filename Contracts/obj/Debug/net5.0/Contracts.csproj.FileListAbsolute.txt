@@ -1,0 +1,11 @@
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\bin\Debug\net5.0\Contracts.deps.json
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\bin\Debug\net5.0\Contracts.dll
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\bin\Debug\net5.0\Contracts.pdb
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.dll
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.pdb
