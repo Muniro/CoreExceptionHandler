@@ -9,3 +9,15 @@ D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\obj\Debug\net5.0\C
 D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.dll
 D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\obj\Debug\net5.0\ref\Contracts.dll
 D:\Aspnet-mvc\ExceptionHandler\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.pdb
+D:\All-Work\Logging\CoreExceptionHandler\Contracts\bin\Debug\net5.0\Contracts.deps.json
+D:\All-Work\Logging\CoreExceptionHandler\Contracts\bin\Debug\net5.0\Contracts.dll
+D:\All-Work\Logging\CoreExceptionHandler\Contracts\bin\Debug\net5.0\Contracts.pdb
+D:\All-Work\Logging\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+D:\All-Work\Logging\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\All-Work\Logging\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+D:\All-Work\Logging\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+D:\All-Work\Logging\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+D:\All-Work\Logging\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.dll
+D:\All-Work\Logging\CoreExceptionHandler\Contracts\obj\Debug\net5.0\refint\Contracts.dll
+D:\All-Work\Logging\CoreExceptionHandler\Contracts\obj\Debug\net5.0\Contracts.pdb
+D:\All-Work\Logging\CoreExceptionHandler\Contracts\obj\Debug\net5.0\ref\Contracts.dll

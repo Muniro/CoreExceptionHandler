@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler.csproj": {}
+    "D:\\All-Work\\Logging\\CoreExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler.csproj": {}
   },
   "projects": {
-    "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\Contracts\\Contracts.csproj": {
+    "D:\\All-Work\\Logging\\CoreExceptionHandler\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "D:\\All-Work\\Logging\\CoreExceptionHandler\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\Contracts\\Contracts.csproj",
+        "projectPath": "D:\\All-Work\\Logging\\CoreExceptionHandler\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\Muniro\\.nuget\\packages\\",
-        "outputPath": "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\Contracts\\obj\\",
+        "outputPath": "D:\\All-Work\\Logging\\CoreExceptionHandler\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Muniro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\All-Work\\Logging\\nuget\\v1": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,41 +57,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler.csproj": {
+    "D:\\All-Work\\Logging\\CoreExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler.csproj",
+        "projectUniqueName": "D:\\All-Work\\Logging\\CoreExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler.csproj",
         "projectName": "CoreExceptionHandler",
-        "projectPath": "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler.csproj",
+        "projectPath": "D:\\All-Work\\Logging\\CoreExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler.csproj",
         "packagesPath": "C:\\Users\\Muniro\\.nuget\\packages\\",
-        "outputPath": "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler\\obj\\",
+        "outputPath": "D:\\All-Work\\Logging\\CoreExceptionHandler\\CoreExceptionHandler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Muniro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\All-Work\\Logging\\nuget\\v1": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\LoggerService\\LoggerService.csproj": {
-                "projectPath": "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\LoggerService\\LoggerService.csproj"
+              "D:\\All-Work\\Logging\\CoreExceptionHandler\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "D:\\All-Work\\Logging\\CoreExceptionHandler\\LoggerService\\LoggerService.csproj"
               }
             }
           }
@@ -143,12 +139,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.13, 5.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -157,41 +147,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\LoggerService\\LoggerService.csproj": {
+    "D:\\All-Work\\Logging\\CoreExceptionHandler\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "D:\\All-Work\\Logging\\CoreExceptionHandler\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\LoggerService\\LoggerService.csproj",
+        "projectPath": "D:\\All-Work\\Logging\\CoreExceptionHandler\\LoggerService\\LoggerService.csproj",
         "packagesPath": "C:\\Users\\Muniro\\.nuget\\packages\\",
-        "outputPath": "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\LoggerService\\obj\\",
+        "outputPath": "D:\\All-Work\\Logging\\CoreExceptionHandler\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Muniro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\All-Work\\Logging\\nuget\\v1": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\Contracts\\Contracts.csproj": {
-                "projectPath": "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\Contracts\\Contracts.csproj"
+              "D:\\All-Work\\Logging\\CoreExceptionHandler\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\All-Work\\Logging\\CoreExceptionHandler\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -230,7 +218,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

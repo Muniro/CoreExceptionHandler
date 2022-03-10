@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nWGCx7MllEVVmPp6z1axohCE652I6xiuYGAuKe9U4EeYp5sFwPJTRq8GktcnZwZVPhDJy0fjAWMqGzNFq3nDJA==",
+  "dgSpecHash": "N+0Jzcz8Ize8PM0BsfW6Lvk6yBhdYYzn4rvu8ihXZVsheruAdcDoC0ArtNwRq6R40FpzNsC2f4bc8iTo+AaXJg==",
   "success": true,
-  "projectFilePath": "D:\\Aspnet-mvc\\ExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler.csproj",
+  "projectFilePath": "D:\\All-Work\\Logging\\CoreExceptionHandler\\CoreExceptionHandler\\CoreExceptionHandler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muniro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Muniro\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
@@ -26,7 +26,8 @@
     "C:\\Users\\Muniro\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Muniro\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\Muniro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\Muniro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+    "C:\\Users\\Muniro\\.nuget\\packages\\contracts\\1.0.0\\contracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Muniro\\.nuget\\packages\\loggerservice\\1.0.0\\loggerservice.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }
